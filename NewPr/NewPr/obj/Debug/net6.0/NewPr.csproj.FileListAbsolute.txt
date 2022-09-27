@@ -1,0 +1,15 @@
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\NewPr.exe
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\NewPr.deps.json
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\NewPr.runtimeconfig.json
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\NewPr.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\NewPr.pdb
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.csproj.AssemblyReference.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.AssemblyInfoInputs.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.AssemblyInfo.cs
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\refint\NewPr.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.pdb
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\NewPr.genruntimeconfig.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\ref\NewPr.dll

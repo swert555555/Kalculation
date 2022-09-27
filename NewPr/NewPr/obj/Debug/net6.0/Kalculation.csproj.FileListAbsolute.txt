@@ -1,0 +1,15 @@
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\Kalculation.exe
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\Kalculation.deps.json
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\Kalculation.runtimeconfig.json
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\Kalculation.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\bin\Debug\net6.0\Kalculation.pdb
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.csproj.AssemblyReference.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.AssemblyInfoInputs.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.AssemblyInfo.cs
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.csproj.CoreCompileInputs.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\refint\Kalculation.dll
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.pdb
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\Kalculation.genruntimeconfig.cache
+C:\Users\Kotam\source\repos\NewPr\NewPr\obj\Debug\net6.0\ref\Kalculation.dll
